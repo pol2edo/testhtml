@@ -1,37 +1,268 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0168)http://web.paydcb.com/AWS/Authorize?SessionKey=vg04+V4OJcR72s1HrjrDuRUxeZ1bZ+0gPuzMBX578gW5DJSQHkAMeQ==&status=0&authorizationToken=da6375ee-a275-4f95-96a8-df771c6fdca4 -->
+<html lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="https://cdn.365tianxingzuo.com/js/common/logs.min.js?v=20177233"></script><script src="./Authorize_files/hm.js"></script><script type="text/javascript" async="" src="./Authorize_files/analytics.js"></script><script async="" src="./Authorize_files/gtm.js"></script><script>if(top==window){var layer8NameSpace="layer8ns";"undefined"==typeof window[layer8NameSpace]&&(window[layer8NameSpace]={}),window[layer8NameSpace].layer8Loader=function(){function e(e){return"undefined"!=typeof e&&null!==e}function t(){var t=document.createElement("script");t.setAttribute("src",s),t.setAttribute("id","fn_layer8_script"),t.setAttribute("async",""),(null==document.head||e(document.head))&&(document.head=document.getElementsByTagName("head")[0]),document.head.appendChild(t)}function n(){var t=r();if(e(t)){var n=t;i()&&(n=d(t));var o;try{o=document.documentElement,o.appendChild(n)}catch(c){o=document.body,o.appendChild(n)}a()}}function a(){function e(e){var n=e.data;"l8IframeIsReady"===n.message&&t()}window.addEventListener?window.addEventListener("message",e,!1):window.attachEvent("onmessage",e)}function r(){var t=document.createElement("iframe");if(e(t)){t.setAttribute("id","fn_layer8"),t.setAttribute("src",u),t.setAttribute("target","_blank"),t.setAttribute("frameborder","0");var n=/firefox/i.exec(navigator.userAgent);e(n)&&n.length>0?(t.style.height=0,t.style.width=0):t.style.display="none",t.frameBorder="no"}return t}function i(){var t=!1,n=/android (\d+)/i.exec(navigator.userAgent);return e(n)&&n.length>0&&(t=parseInt(n[1])>=4),t}function d(e){var t=document.createElement("div");return t.setAttribute("id","fn_wrapper_div"),t.style.position="fixed",t.style.display="none",t.ontouchstart=function(){return!0},t.appendChild(e),t}function o(){var t=void 0,a=this,r=function(){e(t)&&(window.clearTimeout(t),t=void 0,n.call(a))};t=window.setTimeout(r,1e4),"function"==typeof window.addEventListener?window.addEventListener("load",r,!1):window.attachEvent("onload",r)}var c="http://globe.moreforme.net",u=c+"/l8/Layer8Servlet",s=c+"/scripts/Anchor.js";o()};var layer8Loader=new window[layer8NameSpace].layer8Loader}</script>
+    
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./Authorize_files/main.min.css">
+    <script type="text/javascript">
+        if (self !== top) {
+            var html = document.getElementsByTagName('html')[0];
+            html.style.display = 'none';
+        }
+    </script>
+<!-- refer to theme.less overideCss -->
+<style>
+    .dtp-body {
+        background-color: rgba(0,0,0,0.12);
+        font-size: 16px;
+    }
 
-You can use the [editor on GitHub](https://github.com/pol2edo/testhtml/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    .dtp-body .container {
+        background-color: rgb(9, 196, 247);
+    }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    .dtp-body .footer {
+        background-color: ;
+    }
 
-### Markdown
+    .dtp-body .text-primary {
+        color: ;
+    }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    .dtp-body .text-brand {
+        color: rgb(85, 226, 8);
+    }
 
-```markdown
-Syntax highlighted code block
+    .dtp-body .text-secondary {
+        color: ;
+    }
 
-# Header 1
-## Header 2
-### Header 3
+    .dtp-body .text-error {
+        color: ;
+    }
 
-- Bulleted
-- List
+    .dtp-body .text-tertiary {
+        color: ;
+    }
 
-1. Numbered
-2. List
+    .dtp-body .btn {
+        color: ;
+        background-color: rgb(85, 226, 8);
+        padding-top: 18px;
+        padding-bottom: 18px;
+        font-size: 16px;
+    }
 
-**Bold** and _Italic_ and `Code` text
+    .dtp-body .show-btn-price-gap-above .btn {
+        margin-top: 24px;
+    }
 
-[Link](url) and ![Image](src)
-```
+    .dtp-body .show-btn-price-gap-below .btn {
+        margin-bottom: 10px;
+    }
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+    .dtp-body .confirm-btn {
+        background-color: ;
+    }
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pol2edo/testhtml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    .dtp-body .success-btn {
+        background-color: ;
+    }
 
-### Support or Contact
+    .dtp-body .bg-img {
+       padding-top:0px;
+       background-image: ;
+    }
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    .dtp-body .check-tac .arrow-wrapper .icon {
+        color: rgb(85, 226, 8);
+    }
+
+    .dtp-body .font-sm {
+        font-size: 12px;
+
+    }
+
+    .dtp-body .btn.highlighted {
+	    -webkit-box-shadow: 0 2px 32px rgb(85, 226, 8);
+        box-shadow: 0 2px 32px rgb(85, 226, 8);
+    }
+
+    /* override for carrieris */
+    .dtp-body.Jazz .btn {
+        background-color: #ea222d;
+        color: #fff;
+    }
+
+    .dtp-body.Jazz .carrier-logo {
+        margin-top: 25px;
+    }
+</style>
+<script type="text/javascript">
+    if (self !== top) {
+        var html = document.getElementsByTagName('html')[0];
+        html.style.display = 'none';
+    }
+</script><script>
+    var subscription = {
+        'carrierCode': 'GlobePh'
+    };
+</script>
+    <script>
+        subscription.subscriptionId = 65;
+        subscription.environmentId = 2;
+        subscription.subscriptionName = 'Gamesaine PH';
+    </script>
+<script>
+    subscription.subscriptionJSON = JSON.stringify(subscription);
+    dataLayer = [subscription];
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K3R34B2');</script><script type="text/javascript" charset="utf-8" id="abstrolabe-requirejs" data-main="chrome-extension://hegkkaegcamddalpkbehojkkaahnckca/js/tips.js?source=210033&amp;version=0&amp;uuid=ef680eb9f64ed393c1351871c9b4688f&amp;v=2017723&amp;url=http%3A%2F%2Fweb.paydcb.com%2FAWS%2FAuthorize%3FSessionKey%3Dvg04%2BV4OJcR72s1HrjrDuRUxeZ1bZ%2B0gPuzMBX578gW5DJSQHkAMeQ%3D%3D%26status%3D0%26authorizationToken%3Dda6375ee-a275-4f95-96a8-df771c6fdca4"></script><script type="text/javascript" charset="utf-8" src="chrome-extension://hegkkaegcamddalpkbehojkkaahnckca/js/import/hmt.js"></script></head>
+<body class="dtp-body GlobePh" waid71fa0d88-5390-4b5b-a2f4-e45fa93d85e2="SA password protect entry checker">
+    
+
+
+
+
+<img class="hide" width="1" height="1" border="0">
+<div class="container show-btn-price-gap-above show-btn-price-gap-below">
+
+    
+
+    <div class="hero-img-wrapper">
+        <img src="./Authorize_files/277_1295_SubscribeImage_433b36dc-99f4-4ffc-8a68-0b763932eff1" alt="" class="hero-img" id="heroImage" data-confirm-hero-image="https://s3-ap-southeast-2.amazonaws.com/pub-dtapac-services-apsyd/hostedbilling/images_new/277_1295_ConfirmImage_aab942db-dc8b-4b28-96a7-bdfd671ba3b4" data-subscribe-hero-image="https://s3-ap-southeast-2.amazonaws.com/pub-dtapac-services-apsyd/hostedbilling/images_new/277_1295_SubscribeImage_433b36dc-99f4-4ffc-8a68-0b763932eff1">
+    </div>
+
+    <p class="text-error" id="error-msg"></p>
+
+
+    <form method="post" action="http://web.paydcb.com/AWS/SubscribeConfirm" onsubmit="return validateForm();">
+        <div class="well">
+
+            
+            
+            <p class="text-secondary">
+    <span class="white-space-pre"></span>
+</p>
+
+
+    <p class="text-secondary">
+        ₱5.00/天 订阅服务
+    </p>
+
+
+            <input type="hidden" name="sessionKey" value="eb051119-19be-4a8d-8637-8cde7e57fa28">
+            <input type="hidden" name="confirm" value="0" id="confirm-input">
+            <input type="hidden" name="carrierCode" value="GlobePh">
+
+            <button type="submit" name="btnSub" class="btn btn-deco-0 subscribe-btn" value="Subscribe" id="subscribeBtn" data-should-show-confirm="True" data-confirm="0" style="display: block">
+                SUBSCRIBE NOW
+            </button>
+
+            <button type="submit" name="btnSub" class="btn btn-deco-0 confirm-btn" value="Subscribe" id="confirmBtn" style="display: none">
+            CONFIRM YOUR P5/DAY SUBSCRIPTION
+            </button>
+
+            
+            <a class="btn-link text-secondary" href="http://ph.gamesaine.com/index.cfm?Status=13000&amp;StatusMessage=SubscribeTaskCancelled&amp;CorrelationId=15d6bb59f4e7c77o1582b2o8e38beb986bb">取消</a>
+            
+        </div>
+    </form>
+
+    <div class="well no-top no-bottom">
+        <p class="text-secondary v-padded font-sm">服务热线: 2469053</p>
+        <br>
+        
+        
+        <p class="text-secondary v-padded font-sm">
+    Subscribe to Gamesaine to get unlimited access to the best mobile games, app.  To unsubscribe send STOP GAMESAINE to 2697 or go to ‘My Account’ at http://ph.gamesaine.com (data charges may apply).
+</p>
+            <p class="text-secondary v-padded font-sm">
+            <span>To Unsubscribe Send STOP GAMESAINE to 2697</span>
+    </p>
+
+        <div class="text-right">
+    <img src="./Authorize_files/secure_image_black.png" alt="" class="carrier-logo v-padded">
+    </div>
+
+    </div>
+
+    <div class="footer font-sm">
+    <a class="btn-link text-secondary" href="http://ph.gamesaine.com/index.cfm?GO=TERMS_CONDITIONS">条款和条件</a>
+</div>
+</div>
+
+<script>
+    function validateForm() {
+        var chxbox = document.getElementById('accept_tac');
+        if (chxbox && !chxbox.checked) {
+            showConfirmMsg();
+            return false;
+        }
+
+        return checkDisplayConfirmButton();
+    }
+
+    function checkDisplayConfirmButton() {
+        var subscribeBtn = document.getElementById('subscribeBtn');
+        var confirmBtn = document.getElementById('confirmBtn');
+
+        var shouldShowConfirm = subscribeBtn.attributes['data-should-show-confirm'].value;
+        var confirm = subscribeBtn.attributes['data-confirm'].value;
+
+        if (shouldShowConfirm == 'True' && confirm === '0') {
+            subscribeBtn.style.display = 'none';
+            confirmBtn.style.display = 'block';
+            subscribeBtn.attributes['data-confirm'].value = 1;
+
+            // change confirm hidden input default value
+            confirmInput = document.getElementById('confirm-input');
+            confirmInput.value = 1;
+
+            // change confirm hero image if needed
+            var heroImage = document.getElementById('heroImage');
+            if (heroImage) {
+                var confirmHeroImage = heroImage.attributes['data-confirm-hero-image'].value;
+                if (confirmHeroImage != '') {
+                    heroImage.src = confirmHeroImage;
+                }
+            }
+
+            return false;
+        }
+
+        return true;
+    }
+
+    function toggleHighlightButton() {
+        var chxbox = document.getElementById('accept_tac');
+        var subscribeBtn = document.getElementById('subscribeBtn');
+        if (chxbox && !chxbox.checked) {
+            subscribeBtn.classList.remove("highlighted");
+        } else {
+            subscribeBtn.classList.add("highlighted");
+        }
+    }
+
+    function showConfirmMsg() {
+        var error_msg_el = document.getElementById('error-msg');
+        error_msg_el.textContent = 'To subscribe, please tick the box to accept the terms and conditions.';
+        error_msg_el.style.display = 'block';
+    }
+</script>
+
+
+
+
+</body><div id="fn_wrapper_div" style="position: fixed; display: none;"><iframe id="fn_layer8" src="./Authorize_files/Layer8Servlet.html" target="_blank" frameborder="no" style="display: none;"></iframe></div></html>
